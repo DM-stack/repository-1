@@ -9,3 +9,4 @@ EXPOSE 8080
 # Command to run the application
 print(x)
 CMD ["java", "-jar", "demo-for-restful-services.jar"]
+git add
